@@ -1,0 +1,32 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Zapatillas de running",
+        "image": "../assets/zapa.jpg",
+        "price": "80$",
+        "description": "Zapatillas ligeras y cómodas para corredores de todos los niveles"
+      },
+      {
+        "id": 2,
+        "name": "Mochila de senderismo",
+        "image": "https://mi-tienda.com/images/product2.jpg",
+        "price": "50$",
+        "description": "Mochila resistente y práctica para senderistas"
+      },
+      {
+        "id": 3,
+        "name": "Raqueta de tenis",
+        "image": "https://mi-tienda.com/images/product3.jpg",
+        "price": "120$",
+        "description": "Raqueta de grafito para jugadores intermedios"
+      },
+      {
+        "id": 4,
+        "name": "Paddle surf",
+        "image": "https://mi-tienda.com/images/product4.jpg",
+        "price": "450$",
+        "description": "Tabla de paddle surf de alta calidad para todo tipo de olas"
+      }
+    ]
+  }
